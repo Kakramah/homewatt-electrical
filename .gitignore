@@ -1,0 +1,4 @@
+.DS_Store
+.env
+thumbs.db
+node_modules/
