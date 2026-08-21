@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (heroPoster) {
     heroPoster.addEventListener('click', () => {
       openLightbox(
-        'images/slide1.jpg',
+        'images/hero-poster.jpg',
         'HOME WATT — بيتك، بمنظومة واحدة',
         'التكامل الفيزيائي والتقني بين التمديدات، الطاقة الشمسية، المراقبة، وأنظمة المنزل الذكي تحت إشراف Mohand Shatah'
       );
